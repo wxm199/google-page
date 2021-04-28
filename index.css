@@ -1,0 +1,78 @@
+
+
+main {
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  .logo {
+    margin-bottom: 25px
+  }
+  .logo img {
+    height: 92px;
+    width: 272px;
+  }
+  
+  .search {
+  
+    position: relative;
+    height:46px;
+    max-width: 484px;
+    border:1px solid #dfe1e5;
+    margin: 0 auto 40px auto;
+    border-radius: 64px;
+    padding: 0 44px;
+  }
+  
+  .search input {
+    width: 100%;
+    border:none;
+    height: 100%;
+    outline: none;
+    font-size:16px;
+  }
+  .search .icon-search {
+    font-size:18px;
+    position: absolute;
+    left: 15px;
+    top:13px;
+  }
+  .search .icon-mic {
+    font-size:18px;
+    position: absolute;
+    right: 12px;
+    top:13px;
+  }
+  .iconfont {
+    cursor: pointer;
+  }
+  .button-box {
+    margin-bottom: 40px;
+  }
+  
+  .button-box a {
+    text-decoration: none;
+    color: black;
+    background: #eee;
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
+  .button-box a:hover {
+    box-shadow: 0px 0px 1px black;
+  }
+  .button-box a:active {
+    box-shadow: -1px -1px 0 #ccc;
+  }
+  .lang-link span {
+    color: #ccc;
+  }
+  .lang-link a {
+    text-decoration:none;
+    margin: 0 3px;
+    color: blue;
+  }
+  
+  
+  
+  
